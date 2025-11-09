@@ -1,5 +1,5 @@
 
-1. Download Python (Latest Version Ok) from the Microsoft Store , 
+1. Download Python (Latest Version) from the Microsoft Store , 
 Because the normal version is broken 'pip' = Error.
 
 2.Open "Command prompt" and type in "pip install pillow"
